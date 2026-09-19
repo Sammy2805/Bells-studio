@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <rect width="100%" height="100%" rx="20" fill="#09090a" />
+  <circle cx="520" cy="120" r="120" fill="#ff2d95" opacity="0.08" />
+  <g transform="translate(48,220)">
+    <rect width="504" height="300" rx="12" fill="#0f1112" />
+    <text x="24" y="60" fill="#e6eef6" font-family="Poppins, sans-serif" font-size="36">Club Night</text>
+    <text x="24" y="100" fill="#9aa0a6" font-family="Inter, sans-serif" font-size="16">Sample club flyer</text>
+  </g>
+</svg>

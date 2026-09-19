@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" width="600" height="800">
+  <rect width="100%" height="100%" rx="20" fill="#0b0b0d" />
+  <circle cx="480" cy="160" r="120" fill="#ff2d95" opacity="0.08" />
+  <circle cx="120" cy="640" r="160" fill="#00b3ff" opacity="0.06" />
+  <g transform="translate(48,220)">
+    <rect width="504" height="300" rx="12" fill="#111214" />
+    <text x="24" y="60" fill="#e6eef6" font-family="Poppins, sans-serif" font-size="36">Motion Loop</text>
+    <text x="24" y="100" fill="#9aa0a6" font-family="Inter, sans-serif" font-size="16">Poster / motion placeholder</text>
+  </g>
+  <g transform="translate(0,0)" opacity="0.9">
+    <circle cx="300" cy="400" r="42" fill="none" stroke="#00b3ff" stroke-width="3" opacity="0.35"/>
+    <path d="M280 380 L340 400 L280 420 Z" fill="#00b3ff"/>
+  </g>
+</svg>
