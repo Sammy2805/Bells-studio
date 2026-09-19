@@ -22,7 +22,15 @@ body{
 a{
     text-decoration:none;
 }
-
+@media (max-width: 768px) {
+  .site-header {
+    gap: 8px; /* Reduce spacing on mobile */
+  }
+  
+  .site-header a {
+    font-size: 14px; /* Reduce font size on mobile */
+  }
+}
 .container{max-width:1200px;margin:0 auto;padding:24px}
 .site-header{position:sticky;top:0;background:linear-gradient(180deg,rgba(11,11,13,0.6),transparent);backdrop-filter:blur(6px);z-index:40}
 .site-header .container{display:flex;align-items:center;justify-content:space-between}
